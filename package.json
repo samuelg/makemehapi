@@ -1,0 +1,22 @@
+{
+  "name": "makemehapi",
+  "version": "0.0.1",
+  "description": "makemehapi nodeschool",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/samuelg/makemehapi"
+  },
+  "author": "Samuel Fortier-Galarneau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samuelg/makemehapi/issues"
+  },
+  "homepage": "https://github.com/samuelg/makemehapi",
+  "dependencies": {
+    "hapi": "^8.2.0"
+  }
+}
