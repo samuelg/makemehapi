@@ -19,6 +19,7 @@
   "dependencies": {
     "handlebars": "^3.0.0",
     "hapi": "^8.2.0",
+    "joi": "^5.1.0",
     "rot13-transform": "0.0.1"
   }
 }
