@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/samuelg/makemehapi",
   "dependencies": {
+    "boom": "^2.6.1",
     "handlebars": "^3.0.0",
     "hapi": "^8.2.0",
     "joi": "^5.1.0",
